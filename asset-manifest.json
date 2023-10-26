@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a57a982a.css",
+    "main.js": "./static/js/main.5bdc9968.js",
+    "static/js/787.6b503308.chunk.js": "./static/js/787.6b503308.chunk.js",
+    "static/media/conversation.svg": "./static/media/conversation.e716b4fc8fb3d2dbd5738a441a4cc16d.svg",
+    "static/media/not_found.svg": "./static/media/not_found.6b15644fecf1aaad0328a61ec9a0e8e4.svg",
+    "static/media/contact.svg": "./static/media/contact.18b4925ab1a90345fd0a23363a720e6a.svg",
+    "static/media/coffee.svg": "./static/media/coffee.953a31b0970442f888863012a5b86d8a.svg",
+    "static/media/tranquilo-logo.svg": "./static/media/tranquilo-logo.0b78a00a80a533ef66a80e64843ca0c5.svg",
+    "static/media/dashboard1.svg": "./static/media/dashboard1.04f947d777aeef8381a5961b1009cb48.svg",
+    "index.html": "./index.html",
+    "main.a57a982a.css.map": "./static/css/main.a57a982a.css.map",
+    "main.5bdc9968.js.map": "./static/js/main.5bdc9968.js.map",
+    "787.6b503308.chunk.js.map": "./static/js/787.6b503308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a57a982a.css",
+    "static/js/main.5bdc9968.js"
+  ]
+}
